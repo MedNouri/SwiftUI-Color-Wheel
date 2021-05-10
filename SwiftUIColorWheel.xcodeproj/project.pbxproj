@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D9C95CD12644A1C5006C275C /* DemoUse.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C95CD02644A1C5006C275C /* DemoUse.swift */; };
 		D9CB1719262C4C4600832D60 /* SwiftUIColorWheelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CB1718262C4C4600832D60 /* SwiftUIColorWheelApp.swift */; };
 		D9CB171D262C4C4700832D60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9CB171C262C4C4700832D60 /* Assets.xcassets */; };
 		D9CB1720262C4C4700832D60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9CB171F262C4C4700832D60 /* Preview Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D9C95CD02644A1C5006C275C /* DemoUse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoUse.swift; sourceTree = "<group>"; };
 		D9CB1715262C4C4600832D60 /* SwiftUIColorWheel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIColorWheel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9CB1718262C4C4600832D60 /* SwiftUIColorWheelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIColorWheelApp.swift; sourceTree = "<group>"; };
 		D9CB171C262C4C4700832D60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				D9CB1721262C4C4700832D60 /* Info.plist */,
 				D9CB171E262C4C4700832D60 /* Preview Content */,
 				D9CB1732262C717F00832D60 /* ColorWheel.swift */,
+				D9C95CD02644A1C5006C275C /* DemoUse.swift */,
 			);
 			path = SwiftUIColorWheel;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				D9CB1719262C4C4600832D60 /* SwiftUIColorWheelApp.swift in Sources */,
 				D9CB1730262C5BD400832D60 /* Wheel.swift in Sources */,
 				D9CB1733262C717F00832D60 /* ColorWheel.swift in Sources */,
+				D9C95CD12644A1C5006C275C /* DemoUse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
