@@ -22,15 +22,14 @@ struct Wheel: View {
     var body: some View {
         ZStack {
             Circle()
-                .fill(AngularGradient(
-                       gradient:gradient,
-                        center: .center
-                       )
-                 )
-            .shadow(color: Color.gray, radius: 5)
-
-        }.padding()
-    }
+                .fill(AngularGradient(  gradient:gradient, center: .center))
+                .blur(radius: 20)
+                .overlay(
+                   Circle()
+                    .strokeBorder(Color.gray.opacity(0.3),lineWidth: 5.0)
+                )
+        }
+     }
 }
 
 struct ColorWheel_Previews: PreviewProvider {
