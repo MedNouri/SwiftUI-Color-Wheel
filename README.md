@@ -1,4 +1,4 @@
 # SwiftUI-Color-Wheel
-Color Wheel  created  using  SwiftUI
+WIP Color Wheel  created  using  SwiftUI
 
-<img width="463" alt="Screen Shot 2021-04-18 at 10 03 14 PM" src="https://user-images.githubusercontent.com/17935370/115160764-eb1a3f00-a091-11eb-89b0-ba353430fb43.png">
+ <img width="489" alt="Screen Shot 2021-05-12 at 12 19 13 AM" src="https://user-images.githubusercontent.com/17935370/117896087-b166dd80-b2b7-11eb-8fe2-08f9dff6308b.png">
